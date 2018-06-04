@@ -1,7 +1,7 @@
 {
   "name": "@sensenet/control-mapper",
   "version": "1.0.0",
-  "description": "Control mapping utility for sensenet ECM",
+  "description": "Control mapping utility for sensenet",
   "main": "dist/index.js",
   "files": [
     "dist",
